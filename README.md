@@ -1,7 +1,7 @@
-# Obesity Type III - Exploratory Data Analysis
+# Decline in birth rates since 2019 - Exploratory Data Analysis
 
 ## Goal
-This project explores potential risk factors associated with Obesity Type III.
+This project the decline in birth rates since 2019 world wide.
 
 ## Tools
 - Python
